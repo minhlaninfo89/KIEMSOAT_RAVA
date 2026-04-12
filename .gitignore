@@ -1,0 +1,33 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Packages
+packages/
+*.nupkg
+
+# Backup files
+*.bak
+*.backup
+
+# DevExpress
+*.dx
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Output language config
+output-language.md

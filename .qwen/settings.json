@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(msbuild *)",
+      "Bash(where *)",
+      "Bash(dir *)",
+      "Bash(\"c:\\program files\\microsoft visual studio\\2022\\community\\msbuild\\current\\bin\\msbuild.exe\" *)",
+      "Bash(\"c:\\program files\\microsoft visual studio\\2022\\professional\\msbuild\\current\\bin\\msbuild.exe\" *)",
+      "Bash(\"c:\\program files (x86)\\microsoft visual studio\\2019\\community\\msbuild\\current\\bin\\msbuild.exe\" *)",
+      "Bash(do *)",
+      "Bash(\"c:\\program files (x86)\\microsoft visual studio\\2019\\professional\\msbuild\\current\\bin\\msbuild.exe\" *)",
+      "Bash(call *)",
+      "Bash(git init)",
+      "Bash(gh *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  },
+  "$version": 3
+}
